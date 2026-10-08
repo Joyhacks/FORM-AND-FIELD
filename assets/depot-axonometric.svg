@@ -1,0 +1,55 @@
+<svg class="hero-svg" role="img" aria-label="Detailed conceptual axonometric of an existing red-brick public depot with a proposed timber canopy and glazed community workshop" viewBox="0 0 900 760" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+    <defs><pattern id="hg" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#b7bcb0" stroke-width=".8" opacity=".5"/></pattern>
+    <pattern id="brickpattern" width="40" height="19" patternUnits="userSpaceOnUse"><path d="M0 0H40 M0 18H40 M20 0V9 M0 9V18 M40 9V18" fill="none" stroke="#9f907b" stroke-width=".9" opacity=".64"/></pattern>
+    <pattern id="terracotta" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V8" stroke="#e74b30" stroke-width="1"/></pattern>
+    <clipPath id="leftwall"><polygon points="181,334 453,475 453,641 181,505"/></clipPath>
+    <clipPath id="rightwall"><polygon points="453,475 748,352 748,519 453,641"/></clipPath>
+    </defs>
+    <rect width="900" height="760" fill="#E8E9E0"/><rect width="900" height="760" fill="url(#hg)"/>
+    <g stroke="#a8aea2" stroke-width="1" opacity=".65"><path d="M29 76h842 M29 702h842 M74 18v714 M824 18v714" stroke-dasharray="4 8"/><path d="M28 44h32 M44 28v32 M848 688h32 M864 672v32"/></g>
+    <text x="38" y="181" fill="#d2d4ca" font-family="Inter Display,Arial" font-size="207" font-weight="770" letter-spacing="-23">01</text>
+    <g fill="none" stroke="#c4c9bf" stroke-width="1.25"><path d="M87 543c115-26 169 7 270 53s236 43 403-17"/><path d="M87 563c115-26 169 7 270 53s236 43 403-17"/><path d="M87 583c115-26 169 7 270 53s236 43 403-17"/><path d="M118 605c91-17 153 15 216 31"/></g>
+    <!-- site plate -->
+    <polygon points="110,449 425,286 829,470 492,668" fill="#d6d9cc" stroke="#455148" stroke-width="1.8"/>
+    <polygon points="121,459 424,304 812,477 495,655" fill="#e6e6da" stroke="#a7aca0" stroke-width=".8"/>
+    <path d="M134 457L496 634L782 481" fill="none" stroke="#a6ada2" stroke-width="1.8"/>
+    <!-- building envelope -->
+    <polygon points="181,334 453,475 453,641 181,505" fill="#cbbfae" stroke="#242e26" stroke-width="2.8"/>
+    <polygon points="453,475 748,352 748,519 453,641" fill="#d4d3c4" stroke="#242e26" stroke-width="2.8"/>
+    <rect x="169" y="308" width="342" height="361" clip-path="url(#leftwall)" fill="url(#brickpattern)" opacity=".72"/>
+    <rect x="444" y="345" width="310" height="300" clip-path="url(#rightwall)" fill="url(#brickpattern)" opacity=".25"/>
+    <!-- heritage window archways / each opening follows sloped facade datum -->
+    <path d="M204 457V394Q217 364 231 393V470Z" fill="#3d4941" stroke="#18221b" stroke-width="2.1"/>
+        <path d="M209 455V393Q217 376 226 393V467" fill="#acbeb6" opacity=".75"/>
+        <path d="M217 384V463 M207 423L228 436" stroke="#27352d" stroke-width="1.5" fill="none"/><path d="M264 488V427Q277 397 291 426V501Z" fill="#3d4941" stroke="#18221b" stroke-width="2.1"/>
+        <path d="M269 486V426Q277 409 286 426V498" fill="#acbeb6" opacity=".75"/>
+        <path d="M277 417V494 M267 456L288 469" stroke="#27352d" stroke-width="1.5" fill="none"/><path d="M324 519V460Q337 430 351 459V532Z" fill="#3d4941" stroke="#18221b" stroke-width="2.1"/>
+        <path d="M329 517V459Q337 442 346 459V529" fill="#acbeb6" opacity=".75"/>
+        <path d="M337 450V525 M327 489L348 502" stroke="#27352d" stroke-width="1.5" fill="none"/><path d="M382 547V490Q395 460 409 489V560Z" fill="#3d4941" stroke="#18221b" stroke-width="2.1"/>
+        <path d="M387 545V489Q395 472 404 489V557" fill="#acbeb6" opacity=".75"/>
+        <path d="M395 480V553 M385 519L406 532" stroke="#27352d" stroke-width="1.5" fill="none"/><path d="M182 430L452 567" stroke="#8d8173" stroke-width=".7" opacity=".4"/><path d="M182 456L452 593" stroke="#8d8173" stroke-width=".7" opacity=".4"/><path d="M182 482L452 619" stroke="#8d8173" stroke-width=".7" opacity=".4"/><!-- new glazed civic front -->
+      <polygon points="475,494 720,392 720,519 475,616" fill="#cbd8d1" fill-opacity=".81" stroke="#18221b" stroke-width="2.5"/>
+      <polygon points="481,504 715,407 715,509 481,604" fill="#71857a" opacity=".22"/>
+      <path d="M474 494L723 391 M474 618L723 516" stroke="#1c2720" stroke-width="6"/>
+      <path d="M523 474V598 M572 454V578 M620 434V560 M671 412V537" stroke="#1c2720" stroke-width="3.8"/>
+      <path d="M482 564L713 473" stroke="#7e8a7e" stroke-width="1.5"/>
+      <path d="M482 502L715 410" stroke="#f2f2e9" stroke-width="2.8" opacity=".66"/>
+      <!-- workshop interior: benches & material racks with proper scale -->
+      <g stroke="#53665b" fill="none" stroke-width="1.8" opacity=".8"><path d="M502 559l34-14 0 12-34 14zM592 522l38-16 0 12-38 16z"/><path d="M508 561v20 M530 553v18 M601 523v19 M625 514v18"/><path d="M680 482v27l24-9v-29"/></g>
+      <!-- roof, CLT beams and steel beams -->
+      <polygon points="159,287 457,166 776,316 460,446" fill="#bfc6b9" stroke="#19211c" stroke-width="2.7"/>
+      <polygon points="159,287 460,446 460,474 159,310" fill="#767c70" stroke="#19211c" stroke-width="2.1"/>
+      <polygon points="460,446 776,316 776,345 460,474" fill="#929b8e" stroke="#19211c" stroke-width="2.1"/>
+      <g stroke="#7d887c" stroke-width="1.7" fill="none" opacity=".9"><path d="M192 276L488 435 M228 261L524 418 M267 244L561 405 M307 227L600 388 M343 213L639 371 M384 196L678 355 M421 181L718 336"/></g>
+      <polygon points="457,166 776,316 739,332 423,183" fill="url(#terracotta)" opacity=".86" stroke="#f15334" stroke-width="2"/>
+      <path d="M474 455L768 333" stroke="#f15334" stroke-width="7"/>
+      <path d="M186 316L451 456" stroke="#c0cbbf" stroke-width="3"/>
+      <!-- structural piers visible at street side -->
+      <g stroke="#28392e" fill="none" stroke-width="2.5"><path d="M478 482V620 M738 365V522"/></g>
+      <!-- base projected trees in plan, dotted crown rings -->
+      <g fill="none" stroke="#758778" stroke-width="1.4" opacity=".86"><circle cx="262" cy="575" r="25"/><circle cx="262" cy="575" r="17" stroke-dasharray="3 4"/><circle cx="315" cy="614" r="20"/><circle cx="315" cy="614" r="12" stroke-dasharray="3 4"/><circle cx="761" cy="539" r="23"/><circle cx="761" cy="539" r="15" stroke-dasharray="3 4"/></g>
+      <!-- architectural annotations -->
+      <g fill="none" stroke="#28342a" stroke-width="1.35"><path d="M264 418L145 374H46"/><circle cx="264" cy="418" r="3.3" fill="#19211c"/><path d="M543 207L628 122H827" stroke="#f15334"/><circle cx="543" cy="207" r="4" fill="#f15334"/><path d="M619 551L714 640H836"/><circle cx="619" cy="551" r="4" fill="#f15334"/></g>
+      <g font-family="Inter,Arial" fill="#18221c" font-weight="720" font-size="13" letter-spacing="1.4"><text x="46" y="359">01 / RETAIN</text><text x="650" y="104">02 / ADD CANOPY</text><text x="722" y="662">03 / OPEN EDGE</text></g>
+      <g fill="#424b40" font-family="Liberation Mono,monospace" font-size="12" letter-spacing=".6"><text x="41" y="42">FF / AXONOMETRIC 001</text><text x="39" y="723">BRISTOL DEPOT  ·  EXPLORATORY MASSING  ·  NTS</text><text x="828" y="724" text-anchor="end">ISSUED / 08.10.26</text></g>
+      </svg>

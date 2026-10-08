@@ -1,0 +1,23 @@
+<svg class="plan-svg" role="img" aria-label="Concept ground-floor plan showing retained brick walls, library, workshop, meeting room, cafe, public hall, courtyard, and a new public circulation route" viewBox="0 0 860 565" xmlns="http://www.w3.org/2000/svg"><defs>
+      <pattern id="plan-grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#9ea599" stroke-width=".6" opacity=".45"/></pattern><pattern id="plan-court" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0v12" stroke="#f15334" stroke-width="1.1" opacity=".5"/></pattern></defs>
+      <rect width="860" height="565" fill="#ebeae2"/><rect width="860" height="565" fill="url(#plan-grid)"/>
+      <text x="42" y="43" fill="#19211c" font-size="14" font-family="Inter,Arial" font-weight="700" letter-spacing="2">GROUND FLOOR / PROPOSED PROGRAMME</text>
+      <rect x="70" y="103" width="713" height="375" fill="#f6f5ee" stroke="#1d2720" stroke-width="9"/>
+      <rect x="70" y="103" width="713" height="375" fill="url(#plan-grid)" opacity=".35"/>
+      <!-- retained structure heavy ink -->
+      <path d="M290 103V246 M290 294V478 M543 103V238 M543 290V478 M70 285H230 M278 285H523 M569 285H783" stroke="#1d2720" stroke-width="9" fill="none"/>
+      <path d="M610 103v28 M610 183v101 M385 103v30 M385 180v104 M200 285v-28" stroke="#2a352c" stroke-width="2" fill="none"/>
+      <!-- new meeting room framed partition -->
+      <path d="M629 103v180" stroke="#f15334" stroke-width="3.5" stroke-dasharray="9 6"/>
+      <!-- new doorway swing arcs -->
+      <g fill="none" stroke="#858e81" stroke-width="1.1"><path d="M290 244a43 43 0 0 1 -43 43 M543 242a48 48 0 0 1 -48 48 M293 296a42 42 0 0 0 42 42 M545 286a42 42 0 0 0 42 42"/></g>
+      <!-- courtyard boundary and permeable proposed edge -->
+      <rect x="566" y="306" width="197" height="149" fill="url(#plan-court)" opacity=".58" stroke="#f15334" stroke-width="1"/>
+      <path d="M72 393H268Q308 393 308 347V286Q308 266 340 266H570Q610 266 610 309V394" fill="none" stroke="#F15334" stroke-width="19" opacity=".13"/>
+      <path d="M72 393H268Q308 393 308 347V286Q308 266 340 266H570Q610 266 610 309V394" fill="none" stroke="#f15334" stroke-width="3.4" stroke-dasharray="13 8"/>
+      <!-- reading room bookcases -->
+      <g fill="#d7d9ce" stroke="#9ba397" stroke-width="1.1"><rect x="353" y="143" width="13" height="92"/><rect x="390" y="143" width="13" height="92"/><rect x="426" y="143" width="13" height="92"/><rect x="462" y="143" width="13" height="92"/></g>
+      <!-- tables, plan furniture -->
+      <g stroke="#8c978b" fill="none" stroke-width="1.3"><rect x="103" y="140" width="52" height="28"/><circle cx="117" cy="131" r="4"/><circle cx="140" cy="177" r="4"/><rect x="198" y="140" width="52" height="28"/><circle cx="212" cy="131" r="4"/><circle cx="235" cy="177" r="4"/><rect x="103" y="211" width="52" height="28"/><circle cx="117" cy="202" r="4"/><circle cx="140" cy="248" r="4"/><rect x="198" y="211" width="52" height="28"/><circle cx="212" cy="202" r="4"/><circle cx="235" cy="248" r="4"/><circle cx="342" cy="353" r="23"/><circle cx="342" cy="353" r="5"/><circle cx="419" cy="353" r="23"/><circle cx="419" cy="353" r="5"/><circle cx="342" cy="426" r="23"/><circle cx="342" cy="426" r="5"/><circle cx="419" cy="426" r="23"/><circle cx="419" cy="426" r="5"/><circle cx="608" cy="351" r="20" fill="#d8e0d3" stroke="#6e8b73"/><circle cx="608" cy="351" r="9" stroke="#6e8b73"/><circle cx="710" cy="354" r="20" fill="#d8e0d3" stroke="#6e8b73"/><circle cx="710" cy="354" r="9" stroke="#6e8b73"/><circle cx="664" cy="420" r="20" fill="#d8e0d3" stroke="#6e8b73"/><circle cx="664" cy="420" r="9" stroke="#6e8b73"/></g><g fill="#1b241d" text-anchor="middle" font-family="Inter,Arial" font-weight="700" font-size="12" letter-spacing="1.15"><text x="181" y="134">WORKSHOP</text><text x="416" y="132">READING ROOM</text><text x="692" y="132">MEETING</text><text x="182" y="324">CAFE</text><text x="416" y="324">SHARED HALL</text><text x="678" y="455">GARDEN COURT</text></g>
+      <g stroke="#1d2720" fill="none" stroke-width="1.3"><path d="M740 70V34 M740 34l-6 13 M740 34l6 13"/><path d="M672 514H776 M672 508v13 M724 508v13 M776 508v13"/></g>
+      <g fill="#1d2720" font-family="Liberation Mono,monospace" font-size="11"><text x="739" y="26" text-anchor="middle">N</text><text x="670" y="539">0</text><text x="720" y="539">5</text><text x="761" y="539">10 m (indicative)</text><text x="42" y="535">FF / 001–PL–01</text></g></svg>
