@@ -1,4 +1,6 @@
-# FORM & FIELD — an adaptive-reuse architecture portfolio concept
+# FORM & FIELD
+
+A portfolio concept for an adaptive-reuse architecture studio.
 
 A fully responsive, multi-page static frontend portfolio. Original speculative brand, UX, architectural illustrations and writing, developed from a custom V4 design.
 
